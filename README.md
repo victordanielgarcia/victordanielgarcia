@@ -1,8 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<br />
-<br />
-
 <h3>Sobre mim </h3>
 
 <p align="left"> 
@@ -12,7 +9,6 @@ Olá, meu nome é Victor Daniel e sou um desenvolvedor React com Ensino Superior
 ----
 
 <h3>Minhas Skills </h3>
-<br />
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
