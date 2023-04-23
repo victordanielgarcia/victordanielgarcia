@@ -1,4 +1,4 @@
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordanielgarcia&layout=compact&langs_count=7&theme=radical" min-width="400px" max-width="400px" width="400px" align="right" alt="Victor Daniel">
 
 <h3>Sobre mim </h3>
 
