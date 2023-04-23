@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordanielgarcia&layout=compact&langs_count=7&theme=radical" min-width="400px" max-width="400px" width="400px" align="right" alt="Victor Daniel">
 
-<h3>Sobre mim </h3>
+<h3>Sobre</h3>
 
 <p align="left"> 
 Olá, meu nome é Victor Daniel e sou um desenvolvedor React com Ensino Superior em Sistemas. Minha especialização me permite criar interfaces de usuário interativas e envolventes para aplicativos web. Através do uso de bibliotecas JavaScript, posso criar soluções escaláveis e eficientes para clientes que desejam fornecer uma experiência de usuário excepcional.
@@ -8,7 +8,7 @@ Olá, meu nome é Victor Daniel e sou um desenvolvedor React com Ensino Superior
 
 ----
 
-<h3>Minhas Skills </h3>
+<h3>Conhecimentos </h3>
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
